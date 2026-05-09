@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+
+# AI/ML large files
+*.bin
+*.pt
+*.pth
+*.onnx
+*.gguf
+
+# Database/cache
+*.db
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
