@@ -90,12 +90,12 @@ ollama --version
 
 # Pull Required Ollama Model
 
-This project uses Llama 3.3.
+This project uses Llama 3.2.
 
 Run:
 
 ```bash
-ollama pull llama3.3
+ollama pull llama3.2
 ```
 
 ---
@@ -107,7 +107,7 @@ Make sure Ollama is running in the background.
 Run:
 
 ```bash
-ollama run llama3.3
+ollama run llama3.2
 ```
 
 Keep this terminal running.
