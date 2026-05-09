@@ -7,7 +7,7 @@ This project allows you to:
 - Create embeddings from transcript data
 - Store embeddings using FAISS
 - Ask questions from YouTube video content
-- Run the chatbot locally using Ollama Llama 3.3 model
+- Run the chatbot locally using Ollama Llama 3.2 model
 
 ---
 
